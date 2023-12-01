@@ -37,6 +37,7 @@ In summary, Grid Radar provides a comprehensive platform for monitoring and anal
 ### National historic frequency data and grid providers
 UK:
 https://www.nationalgrideso.com/industry-information/balancing-services/frequency-response-services/historic-frequency-data
+https://www.nationalgrideso.com/data-portal/system-frequency-data
 
 
 ### Academic papers:
