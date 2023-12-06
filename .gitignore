@@ -1,7 +1,5 @@
-resources/7604525_h264_1920_1080_5000kb_baseline_de_5000.mp4
-resources/Cabinerit Tram 12 (Amsterdam) _ Amstelstation - Centraal Station (Tram Driver's POV).mp4
-resources/fnew-2023-2.csv
-resources/Westminster_Hall_09_02_23_13_32_04.mp4
+data
+.venv
 output_segmentTEMP_MPY_wvf_snd.wav
 output_segment.mp4
 extracted_audio.wav
